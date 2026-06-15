@@ -1,0 +1,10 @@
+[project]
+name = "ratls-demo"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.10"
+dependencies = [
+    "cryptography>=43.0.0",
+    "dcap-qvl>=0.3.11",
+    "fastapi>=0.115.0",
+]

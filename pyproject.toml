@@ -5,6 +5,6 @@ description = ""
 requires-python = ">=3.10"
 dependencies = [
     "cryptography>=43.0.0",
-    "dcap-qvl>=0.3.11",
+    "dcap-qvl>=0.5.3",
     "fastapi>=0.115.0",
 ]
